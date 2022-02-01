@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+}
+body {
+  background-color: FEFEFA;
+}
+h1 {
+  color: black;
+  text-align: center;
+  padding: 5;
+}
+
+div {
+  text-align: center;
+}
